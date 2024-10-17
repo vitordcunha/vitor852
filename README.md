@@ -4,7 +4,7 @@ I am a software engineer with over 5 years of experience in software development
 
 - 🔭 I’m currently working on ... React, Javascript, Python
 - 🌱 I’m currently learning ... Langchain and AI 😊
-- 📝[Resume](#)
+- 📝 [Resume](./Resume-pt-4.pdf)
 
 ### connect with me
 
