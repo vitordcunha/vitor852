@@ -1,4 +1,4 @@
-Hi, my name is **Vitor Cunha** 👋
+### Hi, my name is **Vitor Cunha** 👋
 
 I am a software engineer with over 5 years of experience in software development and team leadership, specializing in React and Python. My key achievements include leading a successful migration to a client-server architecture at Faro Energy and founding Zenix Tech, where I managed a team of over 5 developers to deliver custom software solutions on time.
 
